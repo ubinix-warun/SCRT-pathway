@@ -12,9 +12,9 @@ Learn SCRT pathway from https://learn.figment.io/network-documentation/secret/se
 ## Extra Screet Pathway Challenges
 
 ### Twitter
-* [ ] Post a lesson learned about the Secret platform, tools, community, etc.
-* [ ] Post a screenshot of what you just built with Secret
-* [ ] Share a public link to a repository with your code
+* [x] Post a lesson learned about the Secret platform, tools, community, etc.
+* [x] Post a screenshot of what you just built with Secret
+* [x] Share a public link to a repository with your code
 * [ ] Start a debate about the pros / cons of Secret
 * [ ] Launch a meme war with Secret prominently featured
 
